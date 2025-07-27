@@ -9,3 +9,7 @@ An Introduction to Statistical Learning provides an accessible overview of the f
 
 ## Repository Structure
 This is the organisation of the repository:
+
+- **[datasets](https://github.com/alexduartehc/ISPL-Solution/tree/main/datasets)**: This directory contains all the datasets necessary to complete the applied exercises.
+
+
