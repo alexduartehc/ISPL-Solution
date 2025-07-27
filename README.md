@@ -1,2 +1,11 @@
 # ISPL-Solutions
-Solutions to the practical exercises from the book "An Introduction to Statistical Learning" 2023 Edition.
+
+![ISLR-Python](https://github.com/ogulcancicek/ISLR-Python/blob/main/figures/book_cover.png)
+
+This repository contains the Solutions in python to the Applied exercises from the book "An Introduction to Statistical Learning" 2023 Edition by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
+
+## About the Book
+An Introduction to Statistical Learning provides an accessible overview of the field of statistical learning, an essential toolset for making sense of the vast and complex data sets that have emerged in fields ranging from biology to finance, marketing, and astrophysics in the past twenty years. This book presents some of the most important modeling and prediction techniques, along with relevant applications. Topics include linear regression, classification, resampling methods, shrinkage approaches, tree-based methods, support vector machines, clustering, deep learning, survival analysis, multiple testing, and more. Color graphics and real-world examples are used to illustrate the methods presented. This book is targeted at statisticians and non-statisticians alike, who wish to use cutting-edge statistical learning techniques to analyze their data.
+
+## Repository Structure
+This is the organisation of the repository:
