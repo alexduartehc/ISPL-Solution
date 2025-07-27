@@ -11,5 +11,5 @@ An Introduction to Statistical Learning provides an accessible overview of the f
 This is the organisation of the repository:
 
 - **[datasets](https://github.com/alexduartehc/ISPL-Solution/tree/main/datasets)**: This directory contains all the datasets necessary to complete the applied exercises.
-
+- **[Exercises]()**: This directory contains the solutions. Each chapter has its own directory named "Chapter " followed by the chapter's number. Inside each chapter directory, there is a specidic file for each exercise.
 
