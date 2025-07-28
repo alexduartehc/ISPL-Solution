@@ -14,5 +14,6 @@ This is the organisation of the repository:
 - **[Exercises](https://github.com/alexduartehc/ISPL-Solution/tree/main/Exercises)**: This directory contains the solutions. Each chapter has its own directory named "Chapter " followed by the chapter's number. Inside each chapter directory, there is a specidic file for each exercise.
 
 ## Disclaimer
+Unfortunately, there were a few exercises I did not solve, as they were very similar to other exercises in the book. 
 The solutions in this repository are only intended for educational purposes and can be used as a reference to aid in understanding the concepts presented.
 Feel free to modify the solutions and create your own implementations of each applied exercise.
