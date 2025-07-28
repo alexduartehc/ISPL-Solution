@@ -15,4 +15,4 @@ This is the organisation of the repository:
 
 ## Disclaimer
 The solutions in this repository are only intended for educational purposes and can be used as a reference to aid in understanding the concepts presented.
-Feel free to modify the solutions and create your own implementations based.
+Feel free to modify the solutions and create your own implementations of each applied exercise.
