@@ -1,6 +1,6 @@
 # ISPL-Solutions
 
-![ISLR-Python](https://github.com/ogulcancicek/ISLR-Python/blob/main/figures/book_cover.png)
+![ISLR-Python](assets/islp.png)
 
 This repository contains the Solutions in python to the Applied exercises from the book "An Introduction to Statistical Learning" 2023 Edition by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
 
